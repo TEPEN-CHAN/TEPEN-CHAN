@@ -1,16 +1,27 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**TEPEN-CHAN/TEPEN-CHAN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- header -->
+<h1 align="center">Hi there! <a href="https://TEPEN-CHAN.github.io"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> I'm STEVEN ARI PANDIANGAN PARADONGAN SILABAN SARAHONO GULO</h1>
 
-Here are some ideas to get you started:
+<a href="https://TEPEN-CHAN.github.io">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&color=25C7AD"/>
+</a>
+<a href="https://www.instagram.com/belhart.rp/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=00A2E8"/>
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3ECF8E,100:0E75B6&height=3"/>
+
+<!-- GitHub Stats + Most Used Languages Side by Side -->
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=TEPEN-CHAN&show_icons=true&rank_icon=percentile&theme=ambient_gradient&include_all_commits=true&hide_border=true">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TEPEN-CHAN&show_icons=true&rank_icon=percentile&include_all_commits=true&title_color=0090FF&icon_color=0090FF&theme=graywhite&hide_border=true" alt="STEVEN's GitHub stats"/>
+</picture>
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=STEVEN-CHAN&langs_count=8&layout=compact&theme=ambient_gradient&hide_border=true">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=STEVEN-CHAN&langs_count=8&title_color=0090FF&layout=compact&theme=graywhite&hide_border=true" alt="Top Langs"/>
+</picture>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3ECF8E,100:0E75B6&height=120&section=footer"/>
+
+</div>
