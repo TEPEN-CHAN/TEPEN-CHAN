@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- header -->
-<h1 align="center">Hi there! <a href="https://TEPEN-CHAN.github.io"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> I'm STEVEN ARI PANDIANGAN PARADONGAN SILABAN SARAHONO GULO</h1>
+<h1 align="center">Hi there! <a href="https://TEPEN-CHAN.github.io"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> I'm STEVEN ARI PANDIANGAN PARADONGAN SILABAN</h1>
 
 <a href="https://TEPEN-CHAN.github.io">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&color=25C7AD"/>
@@ -18,7 +18,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TEPEN-CHAN&show_icons=true&rank_icon=percentile&include_all_commits=true&title_color=0090FF&icon_color=0090FF&theme=graywhite&hide_border=true" alt="STEVEN's GitHub stats"/>
 </picture>
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=STEVEN-CHAN&langs_count=8&layout=compact&theme=ambient_gradient&hide_border=true">
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=TEPEN-CHAN&langs_count=8&layout=compact&theme=ambient_gradient&hide_border=true">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=STEVEN-CHAN&langs_count=8&title_color=0090FF&layout=compact&theme=graywhite&hide_border=true" alt="Top Langs"/>
 </picture>
 
