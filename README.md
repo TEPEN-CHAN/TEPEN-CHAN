@@ -6,7 +6,7 @@
 <a href="https://TEPEN-CHAN.github.io">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&color=25C7AD"/>
 </a>
-<a href="https://www.instagram.com/belhart.rp/">
+<a href="https://www.instagram.com/skyrover25_/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=00A2E8"/>
 </a>
 
