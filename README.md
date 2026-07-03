@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- header -->
-<h1 align="center">Hi there! <a href="https://TEPEN-CHAN.github.io"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> I'm STEVEN ARI PANDIANGAN PARADONGAN SILABAN</h1>
+<h1 align="center">Hi there! <a href="https://TEPEN-CHAN.github.io"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> I'm STEVEN ARI PARADONGAN SILABAN</h1>
 
 <a href="https://TEPEN-CHAN.github.io">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&color=25C7AD"/>
